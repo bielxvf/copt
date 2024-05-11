@@ -1,6 +1,9 @@
 # copt
 Header-only C program attribute manager library
 
+# Usage
+Simply copy the `copt.h` header file somewhere on your project and include it `#include "./whatever_path/copt.h"`
+
 # Example
 ```C
 #include <stdio.h>
