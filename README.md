@@ -2,7 +2,7 @@
 Header-only C program attribute manager library
 
 # Example
-´´´
+```C
 #include <stdio.h>
 
 #include "copt.h"
@@ -37,4 +37,4 @@ int main(int argc, char **argv)
     
     return 0;
 }
-´´´
+```
